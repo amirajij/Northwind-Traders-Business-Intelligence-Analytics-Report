@@ -30,7 +30,7 @@ This report provides a high-level look at the company's health.
 * **Performance Matrix**: A detailed breakdown of monthly sales with percentage distributions.
 
 **Preview:**
-![Sales Report 1 - Overview](report1.png)
+![Sales Report 1 - Overview](report1.jpeg)
 
 ---
 
@@ -42,7 +42,7 @@ Focused on granular data and ranking performance.
 * **Advanced Slicers**: Multi-dimensional filtering by Year and Category.
 
 **Preview:**
-![Sales Report 2 - Rankings](report2.png)
+![Sales Report 2 - Rankings](report2.jpeg)
 
 ---
 
