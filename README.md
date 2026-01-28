@@ -47,6 +47,7 @@ Focused on granular data and ranking performance.
 ---
 
 ## Repository Structure
+* `Script_NorthwindDW.sql` used to build the database.
 * `Northwind_Analytics.pbix`: The main Power BI project file.
 * `Sales_Report_1.pdf` & `Sales_Report_2.pdf`: Exported versions of the final reports.
 
